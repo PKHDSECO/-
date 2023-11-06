@@ -1,0 +1,10 @@
+해당 코드에 사용가능한 파일은 아래 링크에서 제공하는 파일만 가능합니다.
+(.csv 내의 파일 분류가 동일하다면 사용이 가능합니다.)
+
+"Only files provided in the link below are compatible with this code.
+(If the file classification within the .csv is the same, then it can be used.)
+
+このコードで使用可能なファイルは、以下のリンクで提供されるファイルのみです。
+(.csv内のファイルの分類が同じであれば使用できます。)
+
+test_file_link = https://www.data.go.kr/data/15069124/fileData.do
